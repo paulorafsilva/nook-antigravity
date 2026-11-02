@@ -1,0 +1,9 @@
+id          = "antigravity"
+name        = "Antigravity Limits"
+icon        = "cpu"
+size        = "wide"
+run         = ["python", "main.py"]
+mode        = "live"
+description = "Real-time context tokens and session monitor for Google Antigravity in Nook."
+version     = "1.0.0"
+author      = "paulorafsilva"
